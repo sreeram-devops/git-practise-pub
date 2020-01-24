@@ -1,2 +1,2 @@
-# git-practise-pub
-#this is my practise repository
+# git-practice-pub
+#this is my practice repository
