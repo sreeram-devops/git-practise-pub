@@ -1,3 +1,2 @@
 # git-practice-pub
-#this is my practice repository
-edit one file
+#this is my practice repo
